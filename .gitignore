@@ -35,3 +35,11 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# Ignore compiled files
+data/
+assets/js/main.js
+bower_components/
+public/css/
+public/js/
+
